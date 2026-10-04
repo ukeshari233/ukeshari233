@@ -22,7 +22,7 @@ with different tools and ideas.
 ## 🛠️ Things I work with
 
 **Languages:**  
-Python • C • C++
+Python • C 
 
 **AI / GenAI:**  
 LLMs • Prompt Engineering • RAG • LangChain • LangGraph  
